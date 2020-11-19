@@ -1,0 +1,59 @@
+body{
+    background: url(Fon.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+}
+div{
+    border: 2px solid #f7ff84;
+    background-color: #0000007e;
+    border-radius: 5px;
+    
+}
+div > img{
+    width: 300px;
+    border: 5px solid #0000ff;
+    border-radius: 5%;
+}
+div > a {
+    color:#f7ff84;
+    
+}
+div > p{
+    font-family:Calibri;
+    color:honeydew;
+}
+div > h3{
+    font-family: Calibri;
+    color: honeydew;
+}
+div > h1{
+    font-family: Calibri;
+    color:#f7ff84;
+}
+div > ul > li {
+    color: honeydew;
+}
+form > p{
+    color: honeydew;
+}
+form > h3{
+    color: #f7ff84;
+}
+footer{
+    background-color: lightcoral;
+   
+}
+footer> img{
+    height: 100px;
+    padding-left: 5%;
+    float: left;
+}
+.h1r{
+    text-align: center;
+    font-size: 400%;
+    color: #f7ff84;
+}
+li > a {
+    font-size: ;
+    color: #f7ff84;
+}
